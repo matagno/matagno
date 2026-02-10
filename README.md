@@ -1,16 +1,18 @@
-## Hi there 👋
+# ⚙️ Mat
 
-<!--
-**Tisma09/Tisma09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a student interested in robotics, automation, embedded systems, and AI.  
 
-Here are some ideas to get you started:
+This GitHub contains a mix of **school projects** and **personal projects** exploring different areas of engineering and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏗️ Latest Projects
+
+### Quadruped Spider Robot
+A quadruped robot that uses stereo audio processing to locate sound sources. Includes a PyBullet simulation.
+
+### Hand-Motion Teleoperation System
+A hand-tracking teleoperation system using Leap Motion to control a robotic arm. Only part of the project is public.
+
+### Tetris Agent
+Reinforcement learning agents trained to play Tetris in custom environments.
