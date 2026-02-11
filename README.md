@@ -1,6 +1,6 @@
 # ⚙️ Mat
 
-Hi! I'm a student interested in robotics, automation, embedded systems, and AI.  
+Robotics engineering student | Interested in automation, embedded systems, AI, and software development
 
 This GitHub contains a mix of **school projects** and **personal projects** exploring different areas of engineering and programming.
 
